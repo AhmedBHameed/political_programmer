@@ -1,0 +1,8 @@
+{
+  "navbar": {
+    "blog": "Blogs",
+    "login": "تسجيل الدخول",
+    "logout": "Log out",
+    "settings": "Settings"
+  }
+}
